@@ -72,4 +72,5 @@ class MultiCurl
         curl_close($this->arrCurlInit[$instanceName]);
         return $result;
     }
+
 }
