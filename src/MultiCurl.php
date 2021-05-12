@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Sources;
+namespace klebervmv;
 
 /**
  * Class MultiCurl
